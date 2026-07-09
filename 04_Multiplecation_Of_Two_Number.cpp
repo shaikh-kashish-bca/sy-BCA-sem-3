@@ -19,3 +19,12 @@ int main()
     
     return 0;
 }
+
+
+
+
+
+OUTPUT:
+Enter first number: 7
+Enter second number: 8
+Multiplication = 56
