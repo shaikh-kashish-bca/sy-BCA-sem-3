@@ -19,3 +19,40 @@ int main()
     
     return 0;
 }
+
+
+
+
+
+// Program 02: Sum of Two Numbers
+// Name: Kashish Shaikh
+// Subject: OOPs - SY BCA Sem 3
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    int num1, num2, sum;
+    
+    cout << "Enter first number: ";
+    cin >> num1;
+    
+    cout << "Enter second number: ";
+    cin >> num2;
+    
+    sum = num1 + num2;
+    
+    cout << "Sum = " << sum;
+    
+    return 0;
+}
+
+
+
+
+
+OUTPUT:
+Enter first number: 15
+Enter second number: 25
+Sum = 40
