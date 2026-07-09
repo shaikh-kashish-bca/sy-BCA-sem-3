@@ -19,3 +19,13 @@ int main()
     
     return 0;
 }
+
+
+
+
+
+
+OUTPUT:
+Enter first number: 50
+Enter second number: 18
+Subtraction = 32
