@@ -19,3 +19,13 @@ int main()
     
     return 0;
 }
+
+
+
+
+
+
+OUTPUT:
+Enter first number: 100
+Enter second number: 4
+Division = 25
