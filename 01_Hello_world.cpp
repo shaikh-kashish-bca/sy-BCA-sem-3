@@ -5,3 +5,10 @@
     cout<<"Hello World!";
      return 0;
 }
+
+
+
+
+
+OUTPUT:
+Hello World!
